@@ -1,40 +1,37 @@
-<h1 align="center">👋 أهلاً بيك، أنا Zeyad </h1>
+<h1 align="center">👋 أهلاً بيك، أنا Zeyad</h1>
 <p align="center">
-  🧑‍💻 مطور ويب شغوف بالتعلم ومشاركة المعرفة  
+  🧑‍💻 C++ Developer & مهندس مصري
   <br/>
   🎥 بقدم شروحات برمجة على يوتيوب وبحب أحدث التقنيات
+  <br/>
+  😄 بشرح الكود بأسلوب ممتع ومضحك
 </p>
 
----
+🚀 اقدر اعمل ايه
 
- 🚀 اقدر اعمل ايه 
+👨‍💻 C++ Developer – بشتغل على مشاريع C++ بأسلوب OOP احترافي
+🎬 صانع محتوى برمجي عربي – بشرح تقنيات برمجة على قناتي على اليوتيوب
+🔄 بحب أتعلم كل جديد في البرمجة وأجرب تقنيات حديثة
+🧠 هدفي أساعد غيري يتعلم ويبني شغله بنفسه
 
-- 👨‍💻 Frontend Developer – شغال على تطوير واجهات المستخدم بأحدث الأدوات  
-- 🎬 صانع محتوى برمجي عربي – بشرح تقنيات برمجة على قناتي على اليوتيوب  
-- 🔄 بحب أتعلم كل جديد في تطوير الويب وأجرب تقنيات حديثة  
-- 🧠 هدفي أساعد غيري يتعلم ويبني شغله بنفسه  
 
----
- 💻 اللغات اللي بشتغل بيها
-
+💻 اللغات اللي بشتغل بيها
 <p align="center">
-  <a href="https://t.me/Arab_coding"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" /><a/>
-  
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50" />
 </p>
 
+📚 مشاريع C++ بتاعتي
 
----
+🔐 Password Validator – نظام التحقق من كلمة المرور باستخدام OOP
+👤 Username Validator – التحقق من اسم المستخدم باستخدام OOP
 
-<p style="font-size:20px; font-weight: 900; font-style: italic;">
-❤  ممكن نتكلم من هنا
+
+<p style="font-size:20px; font-weight:900; font-style:italic;">
+❤ ممكن نتكلم من هنا
 </p>
-
 <p align="center">
   <a href="https://t.me/Arab_coding">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -53,11 +50,8 @@
   </a>
 </p>
 
-
----
-
 <p align="center">
-  🙌 اتمني تكون استفدات مني اي حاجه و شكرا للزياره الجميله يا جميل!  
+  🙌 اتمني تكون استفدت مني أي حاجه وشكرا للزياره الجميله يا جميل!
   <br/>
-
+  <strong>مهندس مصري. مدرّس C++. على الأرجح بيصلح bug دلوقتي. 🇪🇬💻</strong>
 </p>
