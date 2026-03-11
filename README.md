@@ -4,33 +4,25 @@
   <br/>
   🎥 بقدم شروحات برمجة على يوتيوب وبحب أحدث التقنيات
   <br/>
-  😄 بشرح الكود بأسلوب ممتع ومضحك
+ بشرح الكود بأسلوب ممتع و funny شويه ! 
 </p>
 
 🚀 اقدر اعمل ايه
 
-👨‍💻 C++ Developer – بشتغل على مشاريع C++ بأسلوب OOP احترافي
+👨‍💻 C++ Developer – بشتغل على مشاريع C++ بأسلوب OOP 
 🎬 صانع محتوى برمجي عربي – بشرح تقنيات برمجة على قناتي على اليوتيوب
-🔄 بحب أتعلم كل جديد في البرمجة وأجرب تقنيات حديثة
-🧠 هدفي أساعد غيري يتعلم ويبني شغله بنفسه
+🔄 بحب أتعلم وأجرب تقنيات حديثة
+🧠 هدفي أساعدك تتعلم وتبني مشاريع كامله بنفسك
 
 
 💻 اللغات اللي بشتغل بيها
 <p align="center">
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50" />
 </p>
-
-📚 مشاريع C++ بتاعتي
-
-🔐 Password Validator – نظام التحقق من كلمة المرور باستخدام OOP
-👤 Username Validator – التحقق من اسم المستخدم باستخدام OOP
 
 
 <p style="font-size:20px; font-weight:900; font-style:italic;">
-❤ ممكن نتكلم من هنا
+❤ MY Contacts
 </p>
 <p align="center">
   <a href="https://t.me/Arab_coding">
@@ -51,7 +43,7 @@
 </p>
 
 <p align="center">
-  🙌 اتمني تكون استفدت مني أي حاجه وشكرا للزياره الجميله يا جميل!
+  🙌 اتمني تستفد مني أي حاجه وشكرا للزياره !
   <br/>
-  <strong>مهندس مصري. مدرّس C++. على الأرجح بيصلح bug دلوقتي. 🇪🇬💻</strong>
+  <strong>مهندس. مدرّس C++. على الأرجح بيصلح bug دلوقتي. 🇪🇬💻</strong>
 </p>
