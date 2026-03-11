@@ -1,17 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Zeyad%20Adel&fontSize=80&subText=C++%20Developer%20&%20Content%20Creator&subFontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=ACP%20Studio&fontSize=80&subText=C++%20Developer%20&%20Content%20Creator&subFontSize=25&animation=fadeIn" />
 
-  <h1>👋 أهلاً بيك، أنا زياد عادل</h1>
+  <h1>👋 أهلاً بيك، أنا زياد </h1>
   
-  <h3>👨‍💻 مهندس مصري | مطور C++ | صانع محتوى تقني</h3>
+  <h3>👨‍💻 مهندس | مطور C++ | صانع محتوى تقني</h3>
   
   <p>
-    <b>"بشرح الكود بأسلوب ممتع ومبسط.. وعلى الأرجح قاعد بصلح Bug دلوقتي، أو بحاول أقنع جهازي الـ i5 إنه يـ Render الفيديو من غير ما يعترض 😅💻"</b>
+    <b>"ها افهم"</b>
   </p>
 
   <p>
-    <a href="https://www.youtube.com/@Arab-Coding"><img src="https://img.shields.io/badge/YouTube-Arab%20Coding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://t.me/Arab_coding"><img src="https://img.shields.io/badge/Telegram-Join%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@Arab-Coding">
+  <img src="https://img.shields.io/badge/ACP%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<!-- Instagram - with real color -->
+<a href="https://www.instagram.com/_zeyad_adel_omar_/">
+  <img src="https://img.shields.io/badge/Contact%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
   </p>
 </div>
 
