@@ -51,17 +51,15 @@
 ---
 
 ### 🤝 تواصل معايا (Let's Connect)
+
+
 <p align="center">
-  <a href="https://www.facebook.com/zeyad.adel.omar?locale=ar_AR">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:za8398866@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arab-Coding-YT">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Youtube" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" alt="Instagram" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/github/9E95B7" alt="Github" height="35" width="35" /></a>
 </p>
+
 
 <p align="center">
   <b>🙌 نورت البروفايل، وأتمنى تستفيد من أي سطر كود أو فيديو بقدمه!</b>
