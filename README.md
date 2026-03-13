@@ -1,66 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=ACP%20Studio&fontSize=80&subText=C++%20Developer%20&%20Content%20Creator&subFontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=ACP%20Studio&fontSize=80&subText=C++%20Architect%20&%20Tech%20Content%20Creator&subFontSize=25&animation=Twinkling" />
 
-  <h1>👋 أهلاً بيك، أنا زياد </h1>
+  <h1>👋 Hi, I'm Zeyad</h1>
   
-  <h3>👨‍💻 مهندس | مطور C++ | صانع محتوى تقني</h3>
+  <h3>👨‍💻 Engineer | C++ Developer | Tech Content Creator</h3>
   
   <p>
-    <b>"ها افهم"</b>
+    <b>"Programming isn't just about lines that work—it's about Architecture. If the foundation is weak, the system collapses at the first bug."</b>
   </p>
-
-  <p>
-    <a href="https://www.youtube.com/@Arab-Coding">
-  <img src="https://img.shields.io/badge/ACP%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<!-- Instagram - with real color -->
-<a href="https://www.instagram.com/_zeyad_adel_omar_/">
-  <img src="https://img.shields.io/badge/Contact%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-  </p>
+<p>
+  <a href="https://www.youtube.com/@ACP-Studios" target="_blank"><img src="https://img.shields.io/badge/YouTube-ACP%20Studio-FF0000?style=flat-square&logo=youtube&logoColor=white" height="50" width="200" /></a>
+  <a href="https://www.instagram.com/_zeyad_adel_omar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@Zeyad__Adel-E4405F?style=flat-square&logo=instagram&logoColor=white" height="50" width="230" /></a>
+</p>
 </div>
 
 ---
 
-### 🚀 مين هو زياد؟ (About Me)
-- 🎓 **مهندس شغوف بالتكنولوجيا:** بحب دايماً أتعلم وأجرب أحدث التقنيات وأشاركها مع الناس.
-- 🎥 **صانع محتوى:** مؤسس قناة **[Arab Coding](https://www.youtube.com/@Arab-Coding)**، وهدفي أوصل مفاهيم البرمجة المعقدة بأسلوب بسيط، خفيف، ومفهوش ملل.
-- 🧠 **عاشق للـ C++:** بكتب الكود بأسلوب الـ **OOP**، وبدي اهتمام خاص جداً للـ **Validation** عشان الكود يطلع "نظيف"، قوي، وميضربش في وش المستخدم!
-- 🌐 **تطوير الويب:** بجانب الـ C++، عندي خلفية كويسة جداً في (HTML / CSS / JS) بتساعدني أفهم الصورة الكاملة لأي مشروع.
-- 🎯 **الرسالة:** أساعد المبرمجين العرب يبنوا مشاريع حقيقية وكاملة بنفسهم، من الصفر للاحتراف.
+### 🚀 Who is Zeyad? (About Me)
+- 🎓 **Engineering Mindset:** I don't just write code; I engineer solutions. I believe in designing the logic on paper before touching the keyboard.
+- 🎥 **Founder of [ACP-Studio](https://www.youtube.com/@ACP-Studios):** Dedicated to simplifying complex programming concepts for the Arab community through high-quality visual content.
+- 🧠 **C++ Enthusiast:** Writing clean, OOP-centric code with a massive focus on **Validation**. My goal is to build "Bulletproof" systems that don't fail under pressure.
 
 ---
 
-### 💻 أسلحتي التقنية (Tech Stack)
+### 🏛️ The ACP Protocol (My Mindset)
+- 📐 **Planning is Key:** In **ACP Studio**, we don't code by "luck." Every line has a purpose. Solid planning saves hours of painful debugging.
+- 🛡️ **The Safety Valve:** I write C++ with the precision of an Electrical Engineer—the circuit must be complete, safe, and efficient.
+- 🎬 **Quality Over Everything:** From the final code render to the final video export, I ensure every detail is polished to perfection.
 
-#### 🔸 البرمجة والأساسيات (Core)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="Core Skills" />
-  </a>
-</p>
+---
 
-#### 🔸 المونتاج والتصميم (Creative Tools)
+### 💻 Technical Arsenal (Tech Stack)
+
+#### 🔸 Core Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=illustrator,pr,obs" alt="Creative Skills" />
-  </a>
+  <a href="#" target="_blank"><img src="https://github.com/actions/starter-workflows/blob/main/icons/c-cpp.svg" alt="CPP" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://github.com/actions/starter-workflows/blob/main/icons/python.svg" alt="PYTHON" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/j/javascript-1.svg" alt="JAVASCRIPT" height="40" width="40" /></a>&nbsp;&nbsp;
+  
+  </p>
+
+#### 🔸 Creative Suite (Production)
+<p align="left">
+  <a href="#" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="Premiere" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/after-effects.svg" alt="After Effects" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-photoshop.svg" alt="Photoshop" height="40" width="40" /></a>&nbsp;&nbsp;
+  </p>
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 تواصل معايا (Let's Connect)
-
-
+### 🌐 Connect With Me
 <p align="center">
-  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Youtube" height="35" width="35" /></a>&nbsp;&nbsp;
-  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" height="35" width="35" /></a>&nbsp;&nbsp;
-  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" alt="Instagram" height="35" width="35" /></a>&nbsp;&nbsp;
-  <a href="رابط_حسابك" target="_blank"><img src="https://cdn.simpleicons.org/github/9E95B7" alt="Github" height="35" width="35" /></a>
+  <a href="https://www.youtube.com/@ACP-Studios" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="facebook.com/profile.php?id=61587752964592" target="_blank"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_zeyad_adel_omar_/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ACP-Studio/ACP-Studio" target="_blank"><img src="https://cdn.simpleicons.org/github/9E95B7" height="35" width="35" /></a>
 </p>
 
-
 <p align="center">
-  <b>🙌 نورت البروفايل، وأتمنى تستفيد من أي سطر كود أو فيديو بقدمه!</b>
+  <b>"Building great code takes time..."</b>
 </p>
