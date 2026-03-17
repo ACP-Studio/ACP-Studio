@@ -61,13 +61,6 @@
 
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.youtube.com/@ACP-Studios" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="35" width="35" /></a>&nbsp;&nbsp;
