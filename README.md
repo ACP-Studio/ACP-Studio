@@ -79,5 +79,5 @@
 <br>
 
 <p align="center">
-  <h3><b>"Building great code takes time... ☕⚙️"</b></h3>
+  <h3 align="center"><b>"Building great code takes time... ☕⚙️"</b></h3>
 </p>
