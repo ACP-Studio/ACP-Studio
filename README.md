@@ -52,7 +52,7 @@
   <a href="#" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/j/javascript-1.svg" alt="JAVASCRIPT" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
-### 🔸 Creative Suite (Production)
+### 🔸 Creative kitchen
 <p align="left">
   <a href="#" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="Premiere" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/after-effects.svg" alt="After Effects" height="40" width="40" /></a>&nbsp;&nbsp;
