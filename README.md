@@ -44,11 +44,10 @@
 
 ### 🔸 Core Development
 <p align="left">
-  <a href="#" target="_blank"><img src="https://github.com/actions/starter-workflows/blob/main/icons/c-cpp.svg" alt="CPP" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="#" target="_blank"><img src="https://github.com/actions/starter-workflows/blob/main/icons/python.svg" alt="PYTHON" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="#" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/j/javascript-1.svg" alt="JAVASCRIPT" height="40" width="40" /></a>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="47" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="40" />&nbsp;&nbsp;
 </p>
 
 ### 🔸 Creative kitchen
