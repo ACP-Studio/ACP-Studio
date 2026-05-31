@@ -3,7 +3,7 @@
 
   <h1>👋 Hi, I'm Zeyad</h1>
   
-  <h2>👨‍💻 Engineer | C++ Developer | Tech Content Creator</h2>
+  <h2>👨‍💻 | C++ Developer | Tech Content Creator</h2>
   
   <br>
 
