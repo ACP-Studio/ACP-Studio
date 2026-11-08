@@ -14,15 +14,13 @@
   <br>
   <p>
     <a href="https://www.youtube.com/@ACP-Studios" target="_blank"><img src="https://img.shields.io/badge/YouTube-ACP%20Studio-FF0000?style=flat-square&logo=youtube&logoColor=white" hieght="50" width="200" /></a>
-    <a href="https://www.instagram.com/_zeyad_adel_omar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@Zeyad__Adel-E4405F?style=flat-square&logo=instagram&logoColor=white" width="230" hieght="50" /></a>
+    <a href="https://www.instagram.com/zeyad_adel_omar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ZEYAD_ADEL_OMAR-E4405F?style=flat-square&logo=instagram&logoColor=white" width="300" hieght="50" /></a>
   </p>
 </div>
 
 ---
 
 ## 🚀 Who is Zeyad? (About Me)
-
-#### 🎓 **Engineering Mindset:** I don't just write code; I engineer solutions. I believe in designing the logic on paper before touching the keyboard.
 
 #### 🎥 **Founder of [ACP-Studio](https://www.youtube.com/@ACP-Studios):** Dedicated to simplifying complex programming concepts for the Arab community through high-quality visual content.
 
@@ -33,8 +31,6 @@
 ## 🏛️ The ACP Protocol (My Mindset)
 
 #### 📐 **Planning is Key:** In **ACP Studio**, we don't code by "luck." Every line has a purpose. Solid planning saves hours of painful debugging.
-
-#### 🛡️ **The Safety Valve:** I write C++ with the precision of an Electrical Engineer—the circuit must be complete, safe, and efficient.
 
 #### 🎬 **Quality Over Everything:** From the final code render to the final video export, I ensure every detail is polished to perfection.
 
@@ -48,6 +44,13 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="47" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="40" />&nbsp;&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" alt="CSS3" height="40" />&nbsp;&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/dart.svg" alt="CSS3" height="40" />&nbsp;&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/flutter-icon.svg" alt="CSS3" height="40" />&nbsp;&nbsp;
+  
+  
+  
+  
 </p>
 
 ### 🔸 Creative kitchen
@@ -55,6 +58,7 @@
   <a href="#" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="Premiere" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/after-effects.svg" alt="After Effects" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-photoshop.svg" alt="Photoshop" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-indesign.svg" alt="Indesign" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 
@@ -64,10 +68,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.youtube.com/@ACP-Studios"><img src="https://www.svgrepo.com/show/303198/youtube-icon-logo.svg" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61587752964592&locale=ar_AR" ><img src="https://cdn.simpleicons.org/facebook/0866FF" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_zeyad_adel_omar_/"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ACP-Studio/ACP-Studio"><img src="https://cdn.simpleicons.org/github/9E95B7" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/@ACP-Studios"><img src="https://github.com/gilbarbara/logos/blob/main/logos/youtube-icon.svg" height="50" width="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_zeyad_adel_omar_/"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="37" width="37" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ACP-Studio/ACP-Studio"><img src="https://cdn.simpleicons.org/github/9E95B7" height="35" width="35" /></a>
 </p>
 
 <br>
