@@ -69,7 +69,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.youtube.com/@ACP-Studios"><img src="https://github.com/gilbarbara/logos/blob/main/logos/youtube-icon.svg" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_zeyad_adel_omar_/"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="37" width="37" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zeyad_adel_omar/"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="37" width="37" /></a>&nbsp;&nbsp;
   <a href="https://github.com/ACP-Studio/ACP-Studio"><img src="https://cdn.simpleicons.org/github/9E95B7" height="35" width="35" /></a>
 </p>
 
