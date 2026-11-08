@@ -22,7 +22,7 @@
 
 ## 🚀 Who is Zeyad? (About Me)
 
-#### 🎥 **Founder of [ACP-Studio](https://www.youtube.com/@ACP-Studios):** Dedicated to simplifying complex programming concepts for the Arab community through high-quality visual content.
+#### 🎥 **Founder of [ACP-Studio](https://acp-studio.github.io/ACP-Studio-Site/):** Dedicated to simplifying complex programming concepts for the Arab community through high-quality visual content.
 
 #### 🧠 **C++ Enthusiast:** Writing clean, OOP-centric code with a massive focus on **Validation**. My goal is to build "Bulletproof" systems that don't fail under pressure.
 
