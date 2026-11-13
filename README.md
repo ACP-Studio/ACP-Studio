@@ -14,7 +14,7 @@
   <br>
   <p>
     <a href="https://www.youtube.com/@ACP-Studios" target="_blank"><img src="https://img.shields.io/badge/YouTube-ACP%20Studio-FF0000?style=flat-square&logo=youtube&logoColor=white" hieght="50" width="200" /></a>
-    <a href="https://www.instagram.com/zeyad_adel_omar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ZEYAD_ADEL_OMAR-E4405F?style=flat-square&logo=instagram&logoColor=white" width="300" hieght="50" /></a>
+    <a href="https://www.instagram.com/acp__studio" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ZEYAD_ADEL_OMAR-E4405F?style=flat-square&logo=instagram&logoColor=white" width="300" hieght="50" /></a>
   </p>
 </div>
 
